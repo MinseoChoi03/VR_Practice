@@ -53,13 +53,13 @@
     <UnityVersion>2020.3.22f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.9.0\Hello Cardboard\Scripts\VrModeController.cs" />
-    <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.9.0\Hello Cardboard\Scripts\ObjectController.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.9.0\Hello Cardboard\Scripts\CardboardStartup.cs" />
+    <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.9.0\Hello Cardboard\Scripts\ObjectController.cs" />
     <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.9.0\Hello Cardboard\Scripts\CameraPointer.cs" />
+    <Compile Include="Assets\Samples\Google Cardboard XR Plugin for Unity\1.9.0\Hello Cardboard\Scripts\VrModeController.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\unlit-sphereinside.shader" />
+    <None Include="Assets\Scenes\Travel Video\unlit-sphereinside.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

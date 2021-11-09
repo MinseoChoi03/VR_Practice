@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Samples/Google Cardboard XR Plugin for Unity/1.9.0/Hello Cardboard/Scenes/HelloCardboard.unity
+- path: Assets/Scenes/Travel Video/Main.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
